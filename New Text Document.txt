@@ -1,0 +1,14 @@
+invoke python on unix - python
+setting the pythong path on windows - set path=%path%;C:\pyhon27
+exit the interpreter - quit()
+run the script and enter interactive mode - pass -i before the script
+have some standard commands execute everytime the python interpreter is started - setting an environment variable named PYTHONSTARTUP to the name of a file containing your start-up commands 
+comments in python -  # comments in python start with hash and extend to the end of the line
+enter input through command line - x = int(raw_input("Please enter an integer"))
+
+
+l1 list is a compound data type used to group together values - a = ['spam','eggs',100,1234]
+l2
+see 2.1.1. Argument Passing
+    2.2.1. Error Handling¶
+	
